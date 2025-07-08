@@ -18,3 +18,5 @@ Program works under Windows, Linux, MacOS. Run it from **shell**
 1. Move mouse - moving mouse in random direction every 60s, first run starting function, 2nd stop function
 2. Prevend screen saver - push key down every 60s, first run starting function, 2nd stop function
 3. Exit program and stop move mouse and prevent screen saver
+
+![Image how program looks](/screenshot.png)
