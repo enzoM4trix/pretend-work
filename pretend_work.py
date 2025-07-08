@@ -18,7 +18,7 @@ def moveMouse():
     while works:
         pyautogui.moveTo(random.randint(1,screenWidth), random.randint(1,screenHeight), duration=5, tween=pyautogui.easeInOutQuad)
         pyautogui.press('down')
-        #time.sleep(60)
+        time.sleep(60)
 
 def exitmenu():
     global works
